@@ -1,5 +1,4 @@
-import tensorflow
-from caloGraphNN import *
+from calographnn.caloGraphNN import *
 
 
 
